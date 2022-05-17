@@ -1,2 +1,7 @@
-heleeoo m dnd djnsdd mdmds
-hi i am editing this file
+#include <iostream>
+using namespace std;
+
+int main(){
+  cout<<"Hello";
+  return 0;
+}
